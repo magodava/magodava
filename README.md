@@ -1,16 +1,18 @@
-## Hi there 👋
+## Bem vindos ao meu perfil!
 
-<!--
-**magodava/magodava** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Yuri Raphael Morato Ribeiro
 
-Here are some ideas to get you started:
+Estou estudando na ([ALURA]https://alura.com.br)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Estou desenvolvendo estudos de tecnologia
+
+
+## Você pode entrar em contato comigo 📫
+y.raphael0310@gmail.com
+
+![![image](https://github.com/user-attachments/assets/981aa8b7-b074-4ff2-80f4-49e7fd23b41c)
+
+
+
+
+
